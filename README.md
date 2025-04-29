@@ -44,7 +44,7 @@ sudo apt-get install -y openjdk-17-jdk
 # Set Java 17 as the default Java version
 RUN sudo update-alternatives --config java
 RUN sudo update-alternatives --config javac
-Step 3 :- Set java version for maven using and pom.xml file and aplly this code in that file
+Step 3 :- Set java version for maven using and pom.xml file and apply this code in that file
 <build>
 <plugins>
 <plugin>
