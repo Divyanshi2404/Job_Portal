@@ -1,4 +1,8 @@
 # Running the Project on Gitpod
+
+Prefer reading this file in the Code segment for better understanding 
+
+
 The convenient method to run this project is to run it over Gitpod as you don’t have to download too
 many things on your machine.
 
